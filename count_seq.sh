@@ -5,6 +5,7 @@
 # ciao bella
 #OWNDER APPROVED
 #where are my data ?!?
+#YOUR DATA IS PROCESSING
 
 
 grep -c "^>" $1
